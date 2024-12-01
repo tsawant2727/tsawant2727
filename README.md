@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineer
+Hi, I’m a Software Developer with 2 years of experience, currently working at Patdel Analytics. I primarily focus on frontend development, while also contributing to backend development to build responsive and scalable web applications.
 
 
 # 💻 Tech Stack:
