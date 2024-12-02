@@ -7,7 +7,7 @@ Hi, I’m a Software Developer with 2 years of experience, currently working at 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tsawant2727&theme=vue&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tsawant2727)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tsawant2727&theme=radical&no-frame=false&no-bg=true&margin-w=4)
